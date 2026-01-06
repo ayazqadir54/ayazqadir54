@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 I am an Instrumentation & Control Engineer with hands-on experience in IoT systems, data analytics, and data science. I previously worked as an IoT Engineer at SenseOps Tech Pvt. Ltd., where I analyzed large-scale sensor data, built interactive dashboards, and supported predictive maintenance initiatives using data-driven insights.<br><br>My core strengths lie in transforming raw data into meaningful insights using Python, SQL (PostgreSQL), Pandas, NumPy, PySpark, and Databricks. I have experience working with real-time IoT data pipelines, data visualization, and performance monitoring systems, bridging the gap between industrial engineering and modern analytics.<br><br>I am highly motivated to grow as a Data Analyst / Data Science professional, with a strong interest in solving real-world problems through data, automation, and scalable analytics solutions.
 
 
